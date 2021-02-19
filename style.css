@@ -38,7 +38,7 @@ background: linear-gradient(to right, #2B32B2, #1488CC); /* W3C, IE 10+/ Edge, F
     align-items: flex-end;
     flex-direction: column;
     justify-content: space-around;
-    background: linear-gradient(to left, #1a2980, #26d0ce);
+    background: linear-gradient(to left, black, grey);
     padding: 10px;
     word-wrap: break-word;
     word-break: break-all;
